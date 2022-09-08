@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+
+read -p "/etc/ssh/sshd_config : " file
+
+read -p "/etc/ssh/sshd_config : " str
+
+
